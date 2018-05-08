@@ -1,0 +1,1427 @@
+[23.04.2018 21:45:45] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:45:45] tl_bot.py:71 INFO - Last ID (VK) = 537
+[23.04.2018 21:45:50] tl_bot.py:93 INFO - New last_id (VK) is 53037
+[23.04.2018 21:45:50] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:45:50] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:45:50] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:45:52] tl_bot.py:118 INFO - New last_id (youtube) is aANWLVhTuss
+[23.04.2018 21:45:52] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:45:52] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:47:52] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:47:52] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:47:54] tl_bot.py:93 INFO - New last_id (VK) is 53037
+[23.04.2018 21:47:54] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:47:54] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:47:54] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:47:55] tl_bot.py:118 INFO - New last_id (youtube) is aANWLVhTuss
+[23.04.2018 21:47:55] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:47:55] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:49:21] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:49:21] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:49:21] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:49:21] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:49:21] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:49:21] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:49:22] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:49:22] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:49:22] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:49:46] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:49:46] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:49:46] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:49:46] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:49:46] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:49:46] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:49:46] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:49:46] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:49:46] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:50:43] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:50:43] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:50:43] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:50:43] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:50:43] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:50:43] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:50:44] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:50:44] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:50:44] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:51:41] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:51:41] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:51:41] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:51:41] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:51:41] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:51:41] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:51:41] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:51:41] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:51:41] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:52:26] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:52:26] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:52:26] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:52:26] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:52:26] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:52:26] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:52:26] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:52:26] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:52:26] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:53:55] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:53:55] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:53:55] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:53:55] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:53:55] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:53:55] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:53:56] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:53:56] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:53:56] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:55:25] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:55:25] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:55:25] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:55:25] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:55:25] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:55:25] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:55:25] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', gaierror(1, 'Unknown error')))
+[23.04.2018 21:55:25] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:55:25] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:55:42] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:55:42] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:55:42] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:55:42] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:55:42] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:55:42] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:55:42] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:55:42] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:55:42] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 21:57:21] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 21:57:21] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 21:57:21] tl_bot.py:95 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:57:21] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 21:57:21] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 21:57:21] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 21:57:21] tl_bot.py:120 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', ConnectionRefusedError(111, 'Connection refused')))
+[23.04.2018 21:57:21] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 21:57:21] tl_bot.py:136 INFO - [App] Script went to sleep.
+[23.04.2018 22:02:16] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[23.04.2018 22:02:16] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[23.04.2018 22:02:17] tl_bot.py:93 INFO - New last_id (VK) is 53037
+[23.04.2018 22:02:17] tl_bot.py:97 INFO - [VK] Finished scanning
+[23.04.2018 22:02:17] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[23.04.2018 22:02:17] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[23.04.2018 22:02:18] tl_bot.py:118 INFO - New last_id (youtube) is aANWLVhTuss
+[23.04.2018 22:02:18] tl_bot.py:122 INFO - [VK] Finished scanning
+[23.04.2018 22:02:18] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 18:56:27] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 18:56:27] tl_bot.py:71 INFO - Last ID (VK) = 53037
+[26.04.2018 18:56:33] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 18:56:33] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 18:56:33] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 18:56:33] tl_bot.py:108 INFO - Last stream id = aANWLVhTuss
+[26.04.2018 18:56:36] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 18:56:36] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 18:56:36] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:07:38] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:07:38] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:07:41] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:07:41] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:07:41] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:07:41] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:07:44] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:07:44] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:07:44] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:09:44] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:09:44] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:09:45] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:09:45] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:09:45] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:09:45] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:09:46] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:09:46] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:09:46] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:11:46] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:11:46] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:11:48] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:11:48] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:11:48] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:11:48] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:11:50] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:11:50] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:11:50] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:13:50] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:13:50] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:13:54] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:13:54] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:13:54] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:13:54] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:13:58] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:13:58] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:13:58] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:15:58] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:15:58] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:16:02] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:16:02] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:16:02] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:16:02] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:16:06] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:16:06] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:16:06] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:18:06] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:18:06] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:18:11] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:18:11] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:18:11] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:18:11] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:18:15] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:18:15] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:18:15] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:20:15] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:20:15] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:20:22] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:20:22] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:20:22] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:20:22] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:20:27] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:20:27] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:20:27] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:22:27] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:22:27] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:22:33] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:22:33] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:22:33] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:22:33] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:22:40] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:22:40] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:22:40] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:24:40] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:24:40] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:24:42] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:24:42] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:24:42] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:24:42] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:24:43] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:24:43] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:24:43] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:26:43] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:26:43] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:26:44] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:26:44] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:26:44] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:26:44] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:26:45] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:26:45] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:26:45] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:28:45] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:28:45] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:28:50] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:28:50] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:28:50] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:28:50] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:28:54] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:28:54] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:28:54] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:30:54] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:30:54] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:30:56] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:30:56] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:30:56] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:30:56] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:30:58] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:30:58] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:30:58] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:32:58] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:32:58] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:32:59] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:32:59] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:32:59] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:32:59] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:33:01] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:33:01] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:33:01] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:35:01] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:35:01] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:35:02] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:35:02] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:35:02] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:35:02] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:35:03] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:35:03] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:35:03] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:37:03] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:37:03] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:37:05] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:37:05] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:37:05] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:37:05] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:37:06] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:37:06] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:37:06] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:39:06] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:39:06] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:39:08] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:39:08] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:39:08] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:39:08] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:39:09] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:39:09] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:39:09] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:41:09] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:41:09] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:41:11] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:41:11] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:41:11] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:41:11] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:41:12] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:41:12] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:41:12] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:43:12] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:43:12] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:43:14] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:43:14] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:43:14] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:43:14] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:43:14] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:43:14] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:43:14] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:45:15] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:45:15] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:45:26] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:45:26] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:45:26] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:45:26] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:45:28] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:45:28] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:45:28] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:47:28] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:47:28] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:47:30] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:47:30] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:47:30] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:47:30] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:47:32] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:47:32] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:47:32] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:49:32] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:49:32] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:49:34] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:49:34] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:49:34] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:49:34] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:49:36] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:49:36] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:49:36] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:51:36] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:51:36] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:51:38] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:51:38] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:51:38] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:51:38] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:51:40] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:51:40] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:51:40] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:53:40] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:53:40] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:53:42] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:53:42] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:53:42] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:53:42] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:53:43] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:53:43] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:53:43] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:55:43] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:55:44] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:55:55] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:55:55] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:55:55] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:55:55] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:55:56] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:55:56] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:55:56] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:57:56] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:57:56] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 19:57:57] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 19:57:57] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 19:57:57] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 19:57:57] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 19:57:59] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 19:57:59] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 19:57:59] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 19:59:59] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 19:59:59] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 20:00:00] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 20:00:00] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 20:00:00] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 20:00:00] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 20:00:01] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 20:00:01] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 20:00:01] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 20:48:23] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 20:48:23] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 20:48:25] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 20:48:25] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 20:48:25] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 20:48:25] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 20:48:26] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 20:48:26] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 20:48:26] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 20:50:26] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 20:50:26] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 20:50:27] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 20:50:27] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 20:50:27] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 20:50:27] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 20:50:29] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 20:50:29] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 20:50:29] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 20:52:29] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 20:52:29] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 20:52:30] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 20:52:30] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 20:52:30] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 20:52:30] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 20:52:31] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 20:52:31] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 20:52:31] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 20:54:31] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 20:54:31] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 20:54:34] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 20:54:34] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 20:54:34] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 20:54:34] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 20:54:38] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 20:54:38] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 20:54:38] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 20:56:39] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 20:56:39] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 20:56:44] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 20:56:44] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 20:56:44] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 20:56:44] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 20:56:47] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 20:56:47] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 20:56:47] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 20:58:47] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 20:58:47] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 20:58:48] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 20:58:48] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 20:58:48] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 20:58:48] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 20:58:51] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 20:58:51] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 20:58:51] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:00:51] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:00:51] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:00:53] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:00:53] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:00:53] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:00:53] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:00:59] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 21:00:59] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:00:59] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:02:59] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:02:59] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:03:02] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:03:02] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:03:02] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:03:02] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:03:05] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 21:03:05] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:03:05] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:05:05] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:05:05] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:05:07] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:05:07] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:05:07] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:05:07] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:05:08] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 21:05:08] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:05:08] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:07:08] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:07:08] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:07:10] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:07:10] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:07:10] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:07:10] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:07:11] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 21:07:11] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:07:11] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:09:11] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:09:11] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:09:13] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:09:13] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:09:13] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:09:13] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:09:14] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 21:09:14] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:09:14] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:11:14] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:11:14] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:11:17] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:11:17] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:11:17] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:11:17] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:11:18] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 21:11:18] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:11:18] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:13:18] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:13:18] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:13:20] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:13:20] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:13:20] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:13:20] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:13:21] tl_bot.py:118 INFO - New last_id (youtube) is zWpScuTk6Ts
+[26.04.2018 21:13:21] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:13:21] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:15:21] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:15:21] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:15:26] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:15:26] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:15:26] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:15:26] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:15:27] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:15:27] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:15:27] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:17:27] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:17:27] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:17:31] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:17:31] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:17:31] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:17:31] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:17:33] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:17:33] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:17:33] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:19:33] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:19:33] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:19:38] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:19:38] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:19:38] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:19:38] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:19:46] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:19:46] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:19:46] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:21:46] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:21:46] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:21:48] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:21:48] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:21:48] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:21:48] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:21:51] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:21:51] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:21:51] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:23:51] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:23:51] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:23:54] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:23:54] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:23:54] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:23:54] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:23:56] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:23:56] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:23:56] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:25:56] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:25:56] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:25:59] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:25:59] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:25:59] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:25:59] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:26:03] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:26:03] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:26:03] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:28:03] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:28:03] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:28:05] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:28:05] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:28:05] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:28:05] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:28:07] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:28:07] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:28:07] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:30:07] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:30:07] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:30:09] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:30:09] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:30:09] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:30:09] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:30:12] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:30:12] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:30:12] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:32:12] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:32:12] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:32:13] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:32:13] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:32:13] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:32:13] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:32:15] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:32:15] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:32:15] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:34:15] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:34:15] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:34:18] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:34:18] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:34:18] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:34:18] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:34:20] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:34:20] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:34:20] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:36:21] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:36:21] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:36:22] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:36:22] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:36:22] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:36:22] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:36:25] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:36:25] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:36:25] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:38:25] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:38:25] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:38:28] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:38:28] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:38:28] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:38:28] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:38:30] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:38:30] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:38:30] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:40:30] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:40:30] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:40:35] tl_bot.py:93 INFO - New last_id (VK) is 53176
+[26.04.2018 21:40:35] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:40:35] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:40:35] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:40:39] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:40:39] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:40:39] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:42:39] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:42:39] tl_bot.py:71 INFO - Last ID (VK) = 53176
+[26.04.2018 21:42:45] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:42:45] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:42:45] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:42:45] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:42:51] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:42:51] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:42:51] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:44:51] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:44:51] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:44:53] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:44:53] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:44:53] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:44:53] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:44:56] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:44:56] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:44:56] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:46:56] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:46:56] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:46:58] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:46:58] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:46:58] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:46:58] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:47:01] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:47:01] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:47:01] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:49:01] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:49:01] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:49:02] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:49:02] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:49:02] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:49:02] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:49:03] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:49:03] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:49:03] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:51:03] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:51:03] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:51:07] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:51:07] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:51:07] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:51:07] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:51:09] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:51:09] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:51:09] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:53:09] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:53:09] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:53:11] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:53:11] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:53:11] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:53:11] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:53:12] tl_bot.py:120 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[26.04.2018 21:53:12] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:53:12] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:55:12] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:55:12] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:55:14] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:55:14] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:55:14] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:55:14] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:55:15] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 21:55:15] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:55:15] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:57:15] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:57:15] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:57:17] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:57:17] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:57:17] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:57:17] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:57:18] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 21:57:18] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:57:18] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 21:59:19] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 21:59:19] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 21:59:20] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 21:59:20] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 21:59:20] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 21:59:20] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 21:59:22] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 21:59:22] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 21:59:22] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:01:22] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:01:22] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:01:24] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:01:24] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:01:24] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:01:24] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:01:26] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:01:26] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:01:26] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:03:26] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:03:26] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:03:27] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:03:27] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:03:27] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:03:27] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:03:29] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:03:29] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:03:29] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:05:29] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:05:29] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:05:32] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:05:32] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:05:32] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:05:32] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:05:34] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:05:34] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:05:34] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:07:34] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:07:34] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:07:37] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:07:37] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:07:37] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:07:37] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:07:39] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:07:39] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:07:39] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:09:39] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:09:39] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:09:43] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:09:43] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:09:43] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:09:43] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:09:45] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:09:45] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:09:45] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:11:45] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:11:45] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:11:48] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:11:48] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:11:48] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:11:48] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:11:50] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:11:50] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:11:50] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:13:50] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:13:50] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:13:53] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:13:53] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:13:53] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:13:53] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:13:56] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:13:56] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:13:56] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:15:56] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:15:56] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:15:58] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:15:58] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:15:58] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:15:58] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:15:59] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:15:59] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:15:59] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:17:59] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:17:59] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:18:01] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:18:01] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:18:01] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:18:01] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:18:04] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:18:04] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:18:04] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:20:04] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:20:04] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:20:05] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:20:05] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:20:05] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:20:05] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:20:08] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:20:08] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:20:08] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:22:08] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:22:08] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:22:09] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:22:09] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:22:09] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:22:09] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:22:10] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:22:10] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:22:10] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:24:10] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:24:10] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:24:13] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:24:13] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:24:13] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:24:13] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:24:15] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:24:15] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:24:15] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:26:15] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:26:15] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:26:17] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:26:17] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:26:17] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:26:17] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:26:20] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:26:20] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:26:20] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:28:20] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:28:20] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:28:22] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:28:22] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:28:22] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:28:22] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:28:24] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:28:24] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:28:24] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:30:24] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:30:24] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:30:27] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:30:27] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:30:27] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:30:27] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:30:30] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:30:30] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:30:30] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:32:30] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:32:30] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:32:32] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:32:32] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:32:32] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:32:32] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:32:34] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:32:34] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:32:34] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:34:34] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:34:34] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:34:36] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:34:36] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:34:36] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:34:36] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:34:39] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:34:39] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:34:39] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:36:39] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:36:39] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:36:41] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:36:41] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:36:41] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:36:41] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:36:43] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:36:43] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:36:43] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:38:43] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:38:43] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:38:48] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:38:48] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:38:48] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:38:48] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:38:54] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:38:54] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:38:54] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:40:54] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:40:54] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:40:58] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:40:58] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:40:58] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:40:58] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:41:03] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:41:03] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:41:03] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:43:03] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:43:03] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:43:06] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:43:06] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:43:06] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:43:06] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:43:08] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:43:08] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:43:08] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:45:08] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:45:08] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:45:10] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:45:10] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:45:10] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:45:10] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:45:11] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:45:11] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:45:11] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:47:11] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:47:11] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:47:13] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:47:13] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:47:13] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:47:13] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:47:14] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:47:14] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:47:14] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:49:14] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:49:14] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:49:16] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:49:16] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:49:16] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:49:16] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:49:17] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:49:17] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:49:17] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:51:17] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:51:17] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:51:19] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:51:19] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:51:19] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:51:19] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:51:22] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:51:22] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:51:22] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:53:22] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:53:23] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:53:25] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:53:25] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:53:25] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:53:25] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:53:26] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:53:26] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:53:26] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:55:26] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:55:26] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:55:28] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:55:28] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:55:28] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:55:28] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:55:29] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:55:29] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:55:29] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:57:30] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:57:30] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:57:31] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:57:31] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:57:31] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:57:31] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:57:32] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:57:32] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:57:32] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 22:59:32] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 22:59:32] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 22:59:34] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 22:59:34] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 22:59:34] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 22:59:34] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 22:59:35] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 22:59:35] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 22:59:35] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 23:01:36] tl_bot.py:65 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:01:36] tl_bot.py:71 INFO - Last ID (VK) = 53216
+[26.04.2018 23:01:37] tl_bot.py:93 INFO - New last_id (VK) is 53216
+[26.04.2018 23:01:37] tl_bot.py:97 INFO - [VK] Finished scanning
+[26.04.2018 23:01:37] tl_bot.py:102 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:01:37] tl_bot.py:108 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 23:01:38] tl_bot.py:120 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 23:01:38] tl_bot.py:122 INFO - [VK] Finished scanning
+[26.04.2018 23:01:38] tl_bot.py:136 INFO - [App] Script went to sleep.
+[26.04.2018 23:02:37] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:02:37] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:02:39] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:02:39] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:02:39] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:02:39] tl_bot.py:105 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 23:02:40] tl_bot.py:118 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 23:02:40] tl_bot.py:120 INFO - [VK] Finished scanning
+[26.04.2018 23:02:40] tl_bot.py:134 INFO - [App] Script went to sleep.
+[26.04.2018 23:03:41] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:03:41] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:03:44] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:03:44] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:03:44] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:03:44] tl_bot.py:105 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 23:03:47] tl_bot.py:118 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 23:03:47] tl_bot.py:120 INFO - [VK] Finished scanning
+[26.04.2018 23:03:47] tl_bot.py:134 INFO - [App] Script went to sleep.
+[26.04.2018 23:04:16] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:04:16] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:04:18] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:04:18] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:04:18] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:04:18] tl_bot.py:105 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 23:04:20] tl_bot.py:118 ERROR - Exception of type UnicodeDecodeError in check_new_post(): 'ascii' codec can't decode byte 0xd0 in position 7: ordinal not in range(128)
+[26.04.2018 23:04:20] tl_bot.py:120 INFO - [VK] Finished scanning
+[26.04.2018 23:04:20] tl_bot.py:134 INFO - [App] Script went to sleep.
+[26.04.2018 23:04:50] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:04:50] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:04:53] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:04:53] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:04:53] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:04:53] tl_bot.py:105 INFO - Last stream id = zWpScuTk6Ts
+[26.04.2018 23:04:56] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:04:56] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:04:56] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:06:46] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:06:46] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:06:46] tl_bot.py:92 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?owner_id=-107349300&count=2&filter=owner&access_token=0533bd81ed3c99e9209262ff20f28633dc208785ed9537f665780158746858e3236c834e2fbd2d1888dc0&v=5.60 (Caused by ProxyError('Cannot connect to proxy.', error(111, 'Connection refused')))
+[26.04.2018 23:06:46] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:06:46] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:06:46] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:06:46] tl_bot.py:117 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='www.googleapis.com', port=443): Max retries exceeded with url: /youtube/v3/search?key=AIzaSyA-Q8b3IzDko7EHu8NZAQ06qqR86vALjSY&channelId=UCNJ0iop1uEVhw-tOZUxKM5Q&part=snippet&order=date&maxResults=2&eventType=live&type=video (Caused by ProxyError('Cannot connect to proxy.', error(111, 'Connection refused')))
+[26.04.2018 23:06:46] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:06:46] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:06:56] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:06:56] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:06:58] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:06:58] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:06:58] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:06:58] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:07:00] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:07:00] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:07:00] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:09:00] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:09:00] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:09:02] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:09:02] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:09:02] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:09:02] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:09:03] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:09:03] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:09:03] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:11:03] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:11:03] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:11:05] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:11:05] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:11:05] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:11:05] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:11:07] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:11:07] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:11:07] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:13:07] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:13:07] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:13:08] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:13:08] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:13:08] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:13:09] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:13:10] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:13:10] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:13:10] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:15:10] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:15:10] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:15:14] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:15:14] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:15:14] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:15:14] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:15:17] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:15:17] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:15:17] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:17:17] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:17:17] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:17:20] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:17:20] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:17:20] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:17:20] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:17:21] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:17:21] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:17:21] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:19:21] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:19:21] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:19:23] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:19:23] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:19:23] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:19:24] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:19:25] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:19:25] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:19:25] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:21:25] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:21:26] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:21:28] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:21:28] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:21:28] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:21:28] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:21:30] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:21:30] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:21:30] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:23:30] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:23:30] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:23:32] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:23:32] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:23:32] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:23:32] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:23:34] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:23:34] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:23:34] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:25:34] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:25:34] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:25:36] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:25:36] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:25:36] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:25:36] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:25:38] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:25:38] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:25:38] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:27:38] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:27:38] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:27:40] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:27:40] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:27:40] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:27:40] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:27:41] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:27:41] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:27:41] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:29:41] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:29:41] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:29:43] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:29:43] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:29:43] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:29:43] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:29:44] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:29:44] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:29:44] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:31:44] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:31:44] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:31:46] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:31:46] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:31:46] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:31:46] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:31:47] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:31:47] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:31:47] tl_bot.py:133 INFO - [App] Script went to sleep.
+[26.04.2018 23:33:47] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[26.04.2018 23:33:47] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[26.04.2018 23:33:48] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[26.04.2018 23:33:48] tl_bot.py:94 INFO - [VK] Finished scanning
+[26.04.2018 23:33:48] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[26.04.2018 23:33:48] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[26.04.2018 23:33:50] tl_bot.py:115 INFO - New last_id (youtube) is jKMAWjpDZ88
+[26.04.2018 23:33:50] tl_bot.py:119 INFO - [VK] Finished scanning
+[26.04.2018 23:33:50] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 06:55:45] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 06:55:45] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 06:55:47] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 06:55:47] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 06:55:47] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 06:55:47] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 06:55:48] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 06:55:48] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 06:55:48] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 06:57:48] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 06:57:48] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 06:57:49] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 06:57:49] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 06:57:49] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 06:57:49] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 06:57:50] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 06:57:50] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 06:57:50] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 06:59:50] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 06:59:50] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 06:59:51] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 06:59:51] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 06:59:51] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 06:59:51] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 06:59:52] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 06:59:52] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 06:59:52] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:01:52] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:01:52] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:01:53] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:01:53] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:01:53] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:01:53] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:01:55] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:01:55] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:01:55] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:03:55] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:03:55] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:03:56] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:03:56] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:03:56] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:03:56] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:03:57] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:03:57] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:03:57] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:05:57] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:05:57] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:05:58] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:05:58] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:05:58] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:05:58] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:05:59] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:05:59] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:05:59] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:07:59] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:07:59] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:08:00] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:08:00] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:08:00] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:08:00] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:08:01] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:08:01] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:08:01] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:10:01] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:10:01] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:10:03] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:10:03] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:10:03] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:10:03] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:10:04] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:10:04] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:10:04] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:12:04] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:12:04] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:12:05] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:12:05] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:12:05] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:12:05] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:12:06] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:12:06] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:12:06] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:14:06] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:14:06] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:14:08] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:14:08] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:14:08] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:14:08] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:14:09] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:14:09] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:14:09] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:16:09] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:16:09] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:16:10] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:16:10] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:16:10] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:16:10] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:16:11] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:16:11] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:16:11] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:18:12] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:18:12] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:18:13] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:18:13] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:18:13] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:18:13] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:18:14] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:18:14] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:18:14] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:20:14] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:20:14] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:20:16] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:20:16] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:20:16] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:20:16] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:20:17] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:20:17] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:20:17] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:22:17] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:22:17] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:22:18] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:22:18] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:22:18] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:22:18] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:22:19] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:22:19] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:22:19] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:24:19] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:24:19] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:24:21] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:24:21] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:24:21] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:24:21] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:24:23] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:24:23] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:24:23] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:26:23] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:26:23] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:26:25] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:26:25] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:26:25] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:26:25] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:26:27] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:26:27] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:26:27] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 07:28:27] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 07:28:27] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 07:28:29] tl_bot.py:90 INFO - New last_id (VK) is 53216
+[27.04.2018 07:28:29] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 07:28:29] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 07:28:29] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 07:28:30] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 07:28:30] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 07:28:30] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 17:31:24] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 17:31:24] tl_bot.py:68 INFO - Last ID (VK) = 53216
+[27.04.2018 17:31:29] tl_bot.py:90 INFO - New last_id (VK) is 53234
+[27.04.2018 17:31:29] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 17:31:29] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 17:31:29] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 17:31:30] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 17:31:30] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 17:31:30] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 17:33:30] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 17:33:30] tl_bot.py:68 INFO - Last ID (VK) = 53234
+[27.04.2018 17:33:31] tl_bot.py:90 INFO - New last_id (VK) is 53234
+[27.04.2018 17:33:31] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 17:33:31] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 17:33:31] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 17:33:32] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 17:33:32] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 17:33:32] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 17:35:33] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 17:35:33] tl_bot.py:68 INFO - Last ID (VK) = 53234
+[27.04.2018 17:35:34] tl_bot.py:90 INFO - New last_id (VK) is 53234
+[27.04.2018 17:35:34] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 17:35:34] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 17:35:34] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 17:35:35] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 17:35:35] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 17:35:35] tl_bot.py:133 INFO - [App] Script went to sleep.
+[27.04.2018 17:37:35] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[27.04.2018 17:37:35] tl_bot.py:68 INFO - Last ID (VK) = 53234
+[27.04.2018 17:37:36] tl_bot.py:90 INFO - New last_id (VK) is 53234
+[27.04.2018 17:37:36] tl_bot.py:94 INFO - [VK] Finished scanning
+[27.04.2018 17:37:36] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[27.04.2018 17:37:36] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[27.04.2018 17:37:38] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[27.04.2018 17:37:38] tl_bot.py:119 INFO - [VK] Finished scanning
+[27.04.2018 17:37:38] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 11:49:05] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 11:49:05] tl_bot.py:68 INFO - Last ID (VK) = 53234
+[29.04.2018 11:49:25] tl_bot.py:92 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 502 Bad Gateway. Response body:
+[<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+]
+[29.04.2018 11:49:25] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 11:49:25] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 11:49:25] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 11:49:28] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 11:49:28] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 11:49:28] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 11:50:41] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 11:50:41] tl_bot.py:68 INFO - Last ID (VK) = 5323
+[29.04.2018 11:50:59] tl_bot.py:92 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 502 Bad Gateway. Response body:
+[<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+]
+[29.04.2018 11:50:59] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 11:50:59] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 11:50:59] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 11:51:02] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 11:51:02] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 11:51:02] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 11:53:03] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 11:53:03] tl_bot.py:68 INFO - Last ID (VK) = 5323
+[29.04.2018 11:53:20] tl_bot.py:92 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 502 Bad Gateway. Response body:
+[<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+]
+[29.04.2018 11:53:20] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 11:53:20] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 11:53:20] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 11:53:23] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 11:53:23] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 11:53:23] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 11:55:23] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 11:55:23] tl_bot.py:68 INFO - Last ID (VK) = 5323
+[29.04.2018 11:55:40] tl_bot.py:92 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 502 Bad Gateway. Response body:
+[<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+]
+[29.04.2018 11:55:40] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 11:55:40] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 11:55:40] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 11:55:43] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 11:55:43] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 11:55:43] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 11:57:43] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 11:57:43] tl_bot.py:68 INFO - Last ID (VK) = 5323
+[29.04.2018 11:58:00] tl_bot.py:92 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 502 Bad Gateway. Response body:
+[<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+]
+[29.04.2018 11:58:00] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 11:58:00] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 11:58:00] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 11:58:03] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 11:58:03] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 11:58:03] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 11:58:51] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 11:58:51] tl_bot.py:68 INFO - Last ID (VK) = 5323
+[29.04.2018 11:58:58] tl_bot.py:90 INFO - New last_id (VK) is 53331
+[29.04.2018 11:58:58] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 11:58:58] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 11:58:58] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 11:59:01] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 11:59:01] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 11:59:01] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 12:05:30] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 12:05:30] tl_bot.py:68 INFO - Last ID (VK) = 53331
+[29.04.2018 12:05:33] tl_bot.py:90 INFO - New last_id (VK) is 53331
+[29.04.2018 12:05:33] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 12:05:33] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 12:05:33] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 12:05:37] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 12:05:37] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 12:05:37] tl_bot.py:133 INFO - [App] Script went to sleep.
+[29.04.2018 12:06:09] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[29.04.2018 12:06:09] tl_bot.py:68 INFO - Last ID (VK) = 5330
+[29.04.2018 12:06:29] tl_bot.py:92 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 502 Bad Gateway. Response body:
+[b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor="white">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.12.2</center>\r\n</body>\r\n</html>\r\n']
+[29.04.2018 12:06:29] tl_bot.py:94 INFO - [VK] Finished scanning
+[29.04.2018 12:06:29] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[29.04.2018 12:06:29] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[29.04.2018 12:06:34] tl_bot.py:117 ERROR - Exception of type IndexError in check_new_post(): list index out of range
+[29.04.2018 12:06:34] tl_bot.py:119 INFO - [VK] Finished scanning
+[29.04.2018 12:06:34] tl_bot.py:133 INFO - [App] Script went to sleep.
+[01.05.2018 19:50:54] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[01.05.2018 19:50:54] tl_bot.py:68 INFO - Last ID (VK) = 5330
+[01.05.2018 19:51:03] tl_bot.py:90 INFO - New last_id (VK) is 53632
+[01.05.2018 19:51:03] tl_bot.py:94 INFO - [VK] Finished scanning
+[01.05.2018 19:51:03] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[01.05.2018 19:51:03] tl_bot.py:105 INFO - Last stream id = jKMAWjpDZ88
+[01.05.2018 19:51:05] tl_bot.py:115 INFO - New last_id (youtube) is BCCEsoC_Yso
+[01.05.2018 19:51:05] tl_bot.py:119 INFO - [VK] Finished scanning
+[01.05.2018 19:51:05] tl_bot.py:133 INFO - [App] Script went to sleep.
+[01.05.2018 19:53:06] tl_bot.py:62 INFO - [VK] Started scanning for new posts
+[01.05.2018 19:53:06] tl_bot.py:68 INFO - Last ID (VK) = 53632
+[01.05.2018 19:53:08] tl_bot.py:90 INFO - New last_id (VK) is 53632
+[01.05.2018 19:53:08] tl_bot.py:94 INFO - [VK] Finished scanning
+[01.05.2018 19:53:08] tl_bot.py:99 INFO - [youtube] Started scanning for new stream
+[01.05.2018 19:53:08] tl_bot.py:105 INFO - Last stream id = BCCEsoC_Yso
+[01.05.2018 19:53:10] tl_bot.py:115 INFO - New last_id (youtube) is BCCEsoC_Yso
+[01.05.2018 19:53:10] tl_bot.py:119 INFO - [VK] Finished scanning
+[01.05.2018 19:53:10] tl_bot.py:133 INFO - [App] Script went to sleep.
